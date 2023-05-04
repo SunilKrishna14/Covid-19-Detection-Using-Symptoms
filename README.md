@@ -32,7 +32,7 @@ The code for this project is written in Python and uses the Keras library for bu
 
 Our model achieved an accuracy of 95% on the test set. The detailed results are presented below.
 ### Accuracy comparision after Hyperparameter Tuning
-![Accuracy comparision after Hyperparameter Tuning](hyperpearameter_Tuning.png)
+![Accuracy comparision after Hyperparameter Tuning](Hyperpearameter_Tuning.png)
 ### Accuracy of different Models
 ![Accuracy of different models](Accuracy.png)
 ### Execution Time for different models
