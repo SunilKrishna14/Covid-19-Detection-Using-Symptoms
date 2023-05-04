@@ -1,11 +1,16 @@
 # Covid-19 Detection using ML
 
-This repository contains the code and dataset used in the research paper titled "Covid-19 Detection using Machine Learning Techniques". The goal of this project is to develop a model that can accurately detect the presence of Covid-19 from chest X-ray images.
+The goal of this project is to predict covid-19 from the symptoms observed in the patients during the Covid-19 test along with different factors of the individuals.
+
+	1.To train a model to predict Covid-19 positive or negative based on  symptoms.
+	2.To minimize the chance of Positive person is  being classified as Negative (i.e minimizing False positive   < 5 )..
+	3.Implementing machine learning model for classifying the records in the  dataset correctly, consistently and time efficiently.
+
 
 ## Dataset
 
-The dataset used in this project is the [Covid-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). This dataset consists of chest X-ray images from Covid-19 positive patients as well as patients with other respiratory diseases and healthy patients.
-![Data_set](Data.jpg)
+The dataset used in this project **corona_tested_individuals.csv** has 9 different features along with symptoms, date, age, and the test_indication.
+![Data Set](Data.jpg)
 
 
 ## Environment
@@ -13,7 +18,7 @@ We used **Python 3.6** for this project and implemented the code in **Jupyter No
 
 ## Code
 
-The code for this project is written in Python and uses the Keras library for building the machine learning model. The code is available in the `covid_detection.py` file. You can run the code using the command: python covid_detection.py
+The code for this project is written in Python and uses the Keras library for building the machine learning model. The code is available in the `covid-19_detection.py` file. You can run the code using the command: python covid-19_detection.py
 
 ## Data Visualisation
 ### Bar Plot
@@ -42,5 +47,6 @@ The study aimed to create a machine learning model for predicting COVID-19 using
 -Svachuta Siva Sai Krishna Prasad Gollavilli
 -Sravan Kumar Reddy Pebbeti
 -Keerthana Krishnamoorthy
+
 
 
