@@ -44,9 +44,9 @@ The study aimed to create a machine learning model for predicting COVID-19 using
 
 ## Contributors
 
--Svachuta Siva Sai Krishna Prasad Gollavilli
--Sravan Kumar Reddy Pebbeti
--Keerthana Krishnamoorthy
+	-Svachuta Siva Sai Krishna Prasad Gollavilli
+	-Sravan Kumar Reddy Pebbeti
+	-Keerthana Krishnamoorthy
 
 
 
