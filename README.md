@@ -1,4 +1,4 @@
-# Covid-19 Detection using ML
+# Covid-19 Detection using Symptoms 
 
 The goal of this project is to predict covid-19 from the symptoms observed in the patients during the Covid-19 test along with different factors of the individuals.
 
